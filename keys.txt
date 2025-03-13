@@ -1,0 +1,16 @@
+Your identification has been saved in /Users/idarosenqvist/.ssh/id_ed25519
+Your public key has been saved in /Users/idarosenqvist/.ssh/id_ed25519.pub
+The key fingerprint is:
+SHA256:UNrnhQqaUaR1kAPw/FIUDNUzrMB08z6oj1ZTeAM9wmk idarosenqvist99@gmail.com
+The key's randomart image is:
++--[ED25519 256]--+
+|  .++B@Oo        |
+|   oo*EBB  .     |
+|    =o=*o+o .    |
+|     *o=++ .     |
+|    + ooS..      |
+|     oo  .       |
+|    .. .         |
+|    .o           |
+|   .. .          |
++----[SHA256]-----+
